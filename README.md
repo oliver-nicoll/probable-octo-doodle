@@ -9,7 +9,7 @@ add your inital files:
 
 Link all 3 files together by adding in a script tag in the index.html file and a link tag for the css file.
 
-example: 
+EXAMPLE: 
 
 In the Head link the css file - 
 
