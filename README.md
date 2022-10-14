@@ -1,4 +1,5 @@
 # probable-octo-doodle
+
 Welcome to a fun animation with just JavaScript & CSS!
 
 # Light-Bulb Animation 
@@ -22,4 +23,4 @@ After the Body link the JS file -
 
 To easily view your index.html on a live server, you can simply right-click the file and click the option to run through live-server. 
 
-Enjoy - Have Fun and make your own!
+## Enjoy - Have Fun and make your own!
