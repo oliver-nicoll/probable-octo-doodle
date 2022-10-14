@@ -1,7 +1,8 @@
 # probable-octo-doodle
 Welcome to a fun animation with just JavaScript & CSS!
 
-#Light-Bulb Animation 
+# Light-Bulb Animation 
+
 add your inital files:
     index.html
     a basic js page
