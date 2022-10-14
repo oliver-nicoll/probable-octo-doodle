@@ -10,11 +10,12 @@ add your inital files:
 Link all 3 files together by adding in a script tag in the index.html file and a link tag for the css file.
 
 example: 
-    In the Head link the css file - 
-        '<link rel="stylesheet" type="text/css" href="style.css" />'
 
-    After the Body link the JS file - 
-        '<script src="light.js"></script>'
+In the Head link the css file - 
+        <link rel="stylesheet" type="text/css" href="style.css" />
+
+After the Body link the JS file - 
+        <script src="light.js"></script>
 
 To easily view your index.html on a live server, you can simply right-click the file and click the option to run through live-server. 
 
